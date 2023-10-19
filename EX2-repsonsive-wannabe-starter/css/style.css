@@ -160,7 +160,7 @@ img {
     
     .steps .col img {
         height: 200px;
-        margin-top: 4rem;
+        margin-top: 3rem;
         margin-bottom: 1rem;
     }
     
@@ -178,7 +178,7 @@ img {
     }
     
     .lessons .col {
-        width: 100%;
+        width: 90%;
     }
 
     .lessons .col img {
@@ -187,12 +187,35 @@ img {
         margin-top: 2rem;
     }
 
-    section.why-us {
-        background-color: #222222;
+
+
+    .why-us {
+        margin: 0;
+        padding: 3rem 0;
     }
 
+    section.why-us {
+        background-color: #222222;
 
+    }
+
+    .why-us .col-left {
+        width: 80%;
+    }
+
+    .why-us .col-right {
+        width: 80%;
+        margin-top: 2rem;
+
+    }
+
+    section.why-us h2{
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 2.5rem;
+  }
 }
+
 
 
  
